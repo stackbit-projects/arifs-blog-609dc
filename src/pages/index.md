@@ -13,7 +13,7 @@ sections:
         label: Contact Me
         url: /contact
         style: primary
-    image: images/hero.png
+    image: /images/Screenshot 2021-01-27 110013.png
     image_alt: A smiling woman
     media_position: right
     media_width: fifty
